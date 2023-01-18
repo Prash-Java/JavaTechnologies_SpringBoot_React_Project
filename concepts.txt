@@ -1,0 +1,18 @@
+For Back-end:
+-> Spring Boot With Java And Hibernate With MySql
+--> Model, Repository, Exception, Service, Controller Packages
+--> Database configurations on application.properties
+For Front-end:
+-> React On Visual Code Studio
+--> create new React Project with command: npx create-react-app <project-name>
+--> switch to created project path above: cd <project-name>
+--> start the project using the command: npm start
+--> Search on the Google search for Bootstrap 4 cdn and copy the css link from there and paste in 
+index.html file under <head></head> tag
+--> Alternate way is to type this command in the React Project Terminal:
+---> cd <project-name>
+---> npm install bootstrap --save (and this command on terminal will inject bootstrap 4 dependencies
+into the package.json file of the React Project)
+--> Type react snippets for vs code in Google search and install the same
+--> Install Axios http libraries in React Project such as to make 3rd party API calls using
+npm install axios --save
